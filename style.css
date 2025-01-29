@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif; /* Change the font for the entire page */
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark gray text color */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #4CAF50; /* Green color for the main heading */
+    text-align: center; /* Center-align the heading */
+}
+
+p {
+    font-size: 18px; /* Larger text for paragraphs */
+    line-height: 1.6; /* Add space between lines */
+    text-align: justify; /* Justify the text */
+    margin: 20px; /* Add margin around the paragraph */
+}
+
+a {
+    color: #008CBA; /* Blue color for links */
+    text-decoration: none; /* Remove the underline */
+}
+
+a:hover {
+    color: #005f73; /* Darker blue when hovering over the link */
+}
+
+img {
+    max-width: 100%; /* Make sure the image is responsive */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any spacing below the image */
+    margin: 20px auto; /* Center the image */
+}
